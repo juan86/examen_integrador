@@ -6,3 +6,5 @@ Juan Mercado
 Andrés Rangel 
 
 Juan Morales
+
+Natalia Bazurto
